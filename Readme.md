@@ -12,3 +12,20 @@
 ### Food
 1. Dosa Cart
 
+## Chinatown
+### Places
+
+### Food
+
+## Little Italy
+### Places
+
+### Food
+
+## Dumbo
+### Places
+
+### Food
+
+## Shopping
+
